@@ -1,0 +1,10 @@
+[System]
+Name=MEP
+Client=100
+[User]
+Name=GIOVANNINIA
+Language=E
+[Function]
+Command=/BCB/AB
+Title=Electronic accounting book
+Type=Transaction
